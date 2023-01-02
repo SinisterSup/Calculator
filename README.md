@@ -1,4 +1,4 @@
-# JavaScript Calculator
+# JavaScript Basic Calculator
       
     
 ### [See on Codepen](https://codepen.io/hicoders/pen/pobeMmP)
